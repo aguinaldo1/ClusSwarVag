@@ -1,12 +1,12 @@
-Projeto - Definição de um Cluster Swarm Local com o Vagrant - DIO
+Projeto - Criação de um Cluster Swarm Local com o Vagrant - DIO
 
-Definições:
-- [x] Criar um Vagrantfile com as definições de 4 máquinas virtuais. Sendo uma máquina com o nome de master e as outras com os nomes de node01, node02 e node03;
+Definições desse projeto:
+- [x] Criar um Vagrantfile com definições de 04 máquinas virtuais. Sendo uma máquina com o nome de master e as outras com os nomes de node01, node02 e node03;
 
-- [x] Cada máquina virtual deverá ter um ip fixo;
+- [x] Cada máquina virtual tem um ip fixo;
 
-- [x] Todas as MV deverão possuir o Docker pré-instalado;
+- [x] Todas as máquinas virtuais possui o Docker pré-instalado;
 
-- [x] A máquina com o nome de master deverá ser o nó manager do cluster.
+- [x] A máquina com o nome de master será o nó manager do cluster.
 
-- [x] As demais máquinas deverão ser incluidas no cluster swarm como workers.
+- [x] As demais máquinas foram incluidas no cluster swarm como workers.
