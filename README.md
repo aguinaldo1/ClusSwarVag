@@ -9,4 +9,4 @@ Definições:
 
 - [] A máquina com o nome de master deverá ser o nó manager do cluster.
 
-- [] As demais máquinas deverão ser incluidas no cluster swarm como workers. 
+- [] As demais máquinas deverão ser incluidas no cluster swarm como workers.
